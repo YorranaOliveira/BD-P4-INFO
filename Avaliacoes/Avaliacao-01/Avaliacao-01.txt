@@ -1,0 +1,11 @@
+Yorrana
+
+CONCEITO DE :
+
+DADO: é a representação concreta de um evento no tempo e espaço que não apresenta fundamento para quem meche nele, e um exemplo dele sendo usado na bibliografia que o senhor mandou a gente ler, é que ele é importante, pois faz relação com a indústria hipotética: vendas,produção e compras.
+
+INFORMAÇÃO: é o conjunto dos dados ,que constitui uma mensagem em um determinado fenômeno ou evento.
+
+ARQUIVO CONVENCIONAL: é um arquivo para a organização de dados específicos para aplicações e sistemas.
+
+BANCO DE DADOS: conjunto de dados integrados que tem por objetivo atender a uma comunidade de usuários. 
